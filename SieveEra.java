@@ -1,5 +1,8 @@
 import java.lang.Math;
 
+/*
+ * Compares the speed in which the sieve of Eratosthenes generates primes compared to a brute force method
+ */
 public class SieveEra
 {
 	public static void main(String[] args)
