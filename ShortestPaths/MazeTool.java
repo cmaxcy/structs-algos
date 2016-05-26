@@ -1,5 +1,3 @@
-package maze4;
-
 import java.io.*;
 
 /*
