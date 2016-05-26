@@ -1,5 +1,3 @@
-package maze4;
-
 /*
  * Linked list with the keys being Strings
  * Used to save Strings read from file, and input from user
