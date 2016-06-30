@@ -1,5 +1,3 @@
-package tictactoe2;
-
 /*
  * Move class contains a grid and the player who played it
  */
