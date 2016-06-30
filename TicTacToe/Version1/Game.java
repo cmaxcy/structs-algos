@@ -5,8 +5,6 @@
  * Good luck beating the CPU!
  */
 
-package tictactoe2;
-
 import java.util.Scanner;
 
 /*
