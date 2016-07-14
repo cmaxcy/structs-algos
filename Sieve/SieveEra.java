@@ -1,3 +1,8 @@
+/*
+* Sieve of Eratosthenes is used to make true all elements in a boolean array that are prime
+* Similar brute force method is used on a seperate list, and the two algorithms have their running times compared
+*/
+
 import java.lang.Math;
 
 /*
