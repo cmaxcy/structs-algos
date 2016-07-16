@@ -7,7 +7,7 @@
 import pygame
 import random
 
-
+# responsible for all back end move calculation
 class TicTac:
 
     # score constants
